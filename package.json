@@ -1,0 +1,16 @@
+{
+  "name": "morse-code-translator",
+  "version": "1.0.0",
+  "description": "'morse code translator'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhuvan Singla",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
